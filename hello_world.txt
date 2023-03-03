@@ -1,2 +1,3 @@
 Slowly but surely getting the hang of this coding stuff.
 Let's see how long it will take me to become a web dev guru.
+Learning Git and Github is turning out to be a powerful lesson in coding
